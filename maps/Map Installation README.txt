@@ -1,6 +1,4 @@
-Howdy!
-
-To install maps downloaded from this folder on Windows, you must copy and paste the files form this directory to:
+To install maps downloaded from this folder on Windows, you must copy and paste the files from this directory to:
 
 (Documents/My Games/Red Eclipse/maps)
 
