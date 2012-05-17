@@ -1,0 +1,93 @@
+--------------
+Sorn 1.3 (.1)
+--------------
+
+Author: Raiden
+Modes: DM, CTF, Instagib, defend the flag, bombingrun, multiteams 
+Players: ~ 8 - 16
+multiteams: yes
+ambient sounds: yes
+
+Install
+Extract these files to directory c:\user\username\own documents\my games\Red Eclipse\maps, or your Red Eclipse directory\data\maps .
+
+
+1.3.2 small additions:
+- added grass to the destructed ground
+- changed some lights, no groundbreaking changes
+
+1.3.1 small additions:
+- all portals have sounds now (not really necessary, because you heard the sound already from the portal you leaved - but so it's perfect)
+- removed the defend-flag from the middle 
+
+
+changelog since 1.2:
+----------------------
+- decent retexturing
+- fixed portal issues, had to rebuild some geometry details for that, ...
+- boxes: rearranged them, deleted some of them, rounded some edges, everything in order to fit the players movementabilities
+- added more clips for the same reason
+- added more weapon spawns
+- decent changes on graphics, some additional details
+- changed the position of the blue flag
+- added flag holders for all four teams 
+- added waypoints for bots and deleted some, tried to better the wayfinding routines 
+- diverse changes on lighting - very decent
+
+no issues known at the moment
+
+
+_______________
+changelog since 1.1:
+- added and changed Textures
+- added many many lightsources - impossible to count them
+- changed some geometric details e.g. on buildings
+- added some screen details
+- added a new underground area with two generators, wich are only reachable over two hidden, but easy to find portals
+- added 6 teleporters, all in all the map has 10 portals now, some are double linked
+- changed the water area, now it is possible to leave it without jumping over the stairs
+- added many clips and changed the clip box around the level: it`s not possible, to go behind the buildings again 
+- added particle effects: some smoke and a huge lightnig to the generators
+- added team screens: I didn't want to add classical teamcolours to the map, according to it's asymmetrical layout and whole design; I use screens for team alpha and omega instead
+- added spawning- pads for the weapons
+- ... many other details 
+
+known Issues:
+- teleporters: sometimes the sound is not to hear; sometimes you'll be ported in the near of the secred area instead of inside;   sometimes you'll be ported two times for and back - it is one of the double linked portal - difficult to solve this
+- botpathing is not perfect
+- texturing could still be better sometimes 
+
+________________
+Changes since Beta 1:
+- changed architecture of some buildings
+- added many lights to buildings indoor and outdoor
+- added details to the big teleporter
+- changed some textures
+- added clips and a clipbox
+- added waypoints for bots
+- added more playerstarts
+- changed textures on jumppads 
+
+_______________________________________________________________________________
+
+Thanks to all who helped me: goku, Ulukai, qreeves and all players who visited me while playtesting online
+
+If you have any question or anything else according to this map: remind me in the RE-forum please: 
+http://forum.freegamedev.net/viewtopic.php?f=53&t=2646 .
+_______________________________________________________________________________
+
+sorn (c) 2012 by Raiden
+
+sorn is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see http://creativecommons.org/licenses/by-sa/3.0/.
+
+sorn (c) is based on  Red Eclipse, Copyright (C) 2009-2011 Red Eclipse Team
+    
+Creative Commons Attribution ShareAlike 3.0 License (CC-BY-SA)
+    
+The use of trademarks unique to the Red Eclipse project are in addition
+governed by the Red Eclipse Mark Policy.
+
